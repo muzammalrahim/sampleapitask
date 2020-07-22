@@ -6,6 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+mypy = "*"
+django = "*"
+djangorestframework = "*"
+requests = "*"
+black = "*"
+pytest-django = "*"
+pytest = "*"
 
 [requires]
 python_version = "3.8"
