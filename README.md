@@ -20,7 +20,7 @@ Run `pipenv shell`
 
 Then 
 
-Run `pipenv install`
+Run `pipenv install --pre`
 
 
 
