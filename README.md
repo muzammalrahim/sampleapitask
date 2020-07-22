@@ -1,7 +1,7 @@
 # Getting Started
 
 
-###Prerequisite
+### Prerequisite
 
 python 3.8 
 
@@ -10,7 +10,7 @@ SQLite Database
 pipenv
 
 
-#Setup and run in local Machine/Server
+# Setup and run in local Machine/Server
 
 clone repo: git clone https://github.com/muzammalrahim/sampleapitask.git
 
