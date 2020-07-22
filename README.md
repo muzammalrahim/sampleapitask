@@ -12,15 +12,15 @@ pipenv
 
 # Setup and run in local Machine/Server
 
-clone repo: git clone https://github.com/muzammalrahim/sampleapitask.git
+clone repo: `git clone https://github.com/muzammalrahim/sampleapitask.git`
 
 cd sampleapitask
 
-Run pipenv shell
+Run `pipenv shell`
 
 Then 
 
-Run pipenv install
+Run `pipenv install`
 
 
 
